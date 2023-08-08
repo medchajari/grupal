@@ -16,6 +16,7 @@ public class Grupal {
 	public static void main(String[] args) {
 		//martin edita
 		//martin edita 2
+                System.out.println("4");
 	}
 	
 }
