@@ -34,7 +34,7 @@ public class Grupal {
                 JOptionPane.showMessageDialog(null,"tu nombre es " +numero1+ " y  tu edad es "+numero2);
 	}
 	
-<
+
 }
 
 /* Gustavo Quinteros a ver que sale
@@ -43,3 +43,5 @@ public class Persona {
     private String nombre;
     private int edad;
 */
+
+//martin nueva prueba 09-08-23 11:51
