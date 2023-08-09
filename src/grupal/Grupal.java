@@ -22,3 +22,10 @@ public class Grupal {
 	}
 	
 }
+
+/* Gustavo Quinteros a ver que sale
+public class Persona {
+    private String apellido;
+    private String nombre;
+    private int edad;
+*/
