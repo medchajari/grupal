@@ -32,6 +32,7 @@ public class Grupal {
                 numero1 =JOptionPane.showInputDialog("ingresa tu nombre");
                 numero2 =JOptionPane.showInputDialog("ingresa tu edad");
                 JOptionPane.showMessageDialog(null,"tu nombre es " +numero1+ " y  tu edad es "+numero2);
+                //soy martin
 	}
 	
 
@@ -45,3 +46,9 @@ public class Persona {
 */
 
 //martin nueva prueba 09-08-23 11:51
+//julioyorg
+
+/*public class Persona {
+    private String nombre;
+    private int edad;*/
+ 
