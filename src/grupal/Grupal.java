@@ -34,4 +34,4 @@ public class Grupal {
                 JOptionPane.showMessageDialog(null,"tu nombre es " +numero1+ " y  tu edad es "+numero2);
 	}
 	
-}
+}//julioyorg
